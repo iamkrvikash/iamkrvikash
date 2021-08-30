@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I’m currently working on PDK Development (DRC/LVS).
-- 🌱 I’m currently learning ReactJS, Python, Linux, Tcl.
+- 🌱 I’m currently learning Python, Linux, Tcl.
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with Tcl Scripting.
 - ⚡ Languages I'm learning : Hiragana (Japanese), Hangul(Korean), German. 
