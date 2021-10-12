@@ -21,5 +21,5 @@
 <a href="https://www.linkedin.com/in/iamkrvikash/">
   <img align="left" alt="Vikash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrvikash&theme=blue-green&&layout=compact">
