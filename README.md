@@ -22,7 +22,7 @@ Hi, i'm [Vikash](https://iamkrvikash.github.io/) working on VLSI domain.
 📈 My github stats
 
 <p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=iamkrvikash&theme=merko&show_icons=true&hide_border=true">
-                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrvikash&theme=blue-green&&layout=compact">
+                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrvikash&theme=blue-green&&layout=compact" height="195px">
 </p>
 
 <!--
