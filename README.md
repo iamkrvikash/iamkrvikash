@@ -1,11 +1,14 @@
 ### Hey there,
 
-<a href="https://twitter.com/iamkrvikash">
-  <img align="left" alt="Vikash Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/iamkrvikash/">
-  <img align="left" alt="Vikash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<p align="left">
+  <a href="https://twitter.com/iamkrvikash">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/iamkrvikash">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=iamkrvikash)
 
@@ -14,9 +17,7 @@
 Hi, i'm [Vikash](https://iamkrvikash.github.io/) working in VLSI domain.
 
 - 🔭 I’m currently working as PDK LVS Engineer.
-- 🌱 I’m currently learning Tcl & Python.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- ⚡ Languages I'm learning : Hangul(Korean), French. 
+- 📈 I’m looking to collaborate on Open Source Projects.
  
 
 📈 My github stats
